@@ -1,9 +1,9 @@
 # PROFESSIONAL TRACK INFO
 
-Student Name: 
+Student Name: Egide Muhire
 
-Track Name: 
+Track Name: Something Awesome
 
-Track Description: 
+Track Description: Something Awesome
 
 ![MSD Logo](assets/logo-small.png "MSD Logo") 
